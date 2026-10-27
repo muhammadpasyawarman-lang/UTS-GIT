@@ -1,1 +1,1 @@
--enama:PASYA\nNIM:202557201031\ndan Hobi:Futsal
+-eNama:PASYA\nMIN:202557201031\nHobi:Futsal
